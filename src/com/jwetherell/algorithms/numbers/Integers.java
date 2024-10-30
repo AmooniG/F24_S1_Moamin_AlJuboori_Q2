@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Integers {
-
+//this is for the pull request quiz 2.
     private static final BigDecimal ZERO = new BigDecimal(0);
     private static final BigDecimal TWO = new BigDecimal(2);
 
